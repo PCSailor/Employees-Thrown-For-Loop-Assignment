@@ -23,7 +23,7 @@ employees.forEach(function(input){
   // console.log(input.name);
   // console.log(input.yearsOfExperience);
 
-
+// Manual Version:
 // //   '<tr>' +
 // //     '<td> ' + employees[1].name + '</td>' + '<td> ' + employees[1].yearsOfExperience + '</td>' +
 // //   '</tr>' +
